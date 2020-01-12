@@ -1,0 +1,128 @@
+{
+    "details": {
+        "name": "Kanchan Tyagi",
+        "role": "Frontend Developer",
+        "jobStartYear": "2012",
+        "jobStartMonth": "06",
+        "currentCompany": "XYZ",
+        "technologies": "Javascript, Angular JS, Angular 7, React JS, Photoshop, HTML, CSS",
+        "dob": "28/06/1990",
+        "qualification": "B.Tech (IT)",
+        "about": "I am Frontend developer and have 7 years of experience in frontend technologies. In my 7 years of experience I have worked on SPA(Single Page Application) and 2 CMS(Content Management System). First time I am creating my portfolio, which is very simple and will update so many things in future :)",
+        "aboutDetail": "As you all know my name is Kanchan Tyagi ;), I have worked in so many companies and try to grab the knowledge as much as I can.",
+        "techDetails": [
+            {
+                "techName": "Javascript",
+                "percent": "8"
+            }, 
+            {
+                "techName": "Angular 7",
+                "percent": "6"
+            }, 
+            {
+                "techName": "Angular JS",
+                "percent": "6"
+            },
+            {
+                "techName": "React",
+                "percent": "7"
+            },
+            {
+                "techName": "HTML",
+                "percent": "9"
+            },
+            {
+                "techName": "CSS",
+                "percent": "9"
+            },
+            {
+                "techName": "Photoshop",
+                "percent": "7"
+            }
+        ],
+        "codeDetails": [
+            {
+                "codeKey": "author",
+                "codeProperty": "Kanchan Tyagi"
+            },
+            {
+                "codeKey": "emailId",
+                "codeProperty": "kanchan.tyagi8@gmail.com"
+            },
+            {
+                "codeKey": "project",
+                "codeProperty": "Portfolio"
+            },
+            {
+                "codeKey": "technologies",
+                "codeProperty": [
+                    "Javascript", "Angular JS", "Angular 7", "React JS", "Photoshop", "HTML", "CSS"
+                ]
+            },
+            {
+                "codeKey": "dependencies",
+                "codeProperty": {
+                    "react-material": "^4.8.0",
+                    "react": "^16.12.0",
+                    "react-router": "^5.1.2",
+                    "redux": "^4.0.4",
+                    "redux-thunk": "^2.3.0",
+                    "styled-components": "^5.0.0-rc.2"
+                }
+            },
+            {
+                "codeKey": "devDependencies",
+                "codeProperty": {
+                    "editor": "VS code",
+                    "terminal": "git Bash",
+                    "free-time": "coding",
+                    "busy-time": "coding"
+                }
+            }
+        ]
+    },
+    "projectDetails": [
+        {
+            "projectName": "newgen",
+            "projectHeading": "Newgen Software Technologies",
+            "projectBreif": [
+                "Wordpress", "Jquery", "HTML", "CSS", "Photoshop"
+            ]
+        },
+        {
+            "projectName": "cvent",
+            "projectHeading": "Cvent (Orgnizing Events)",
+            "projectBreif": [
+                "500+ Micro Websites", "HTML", "CSS", "Jquery", "Javascript"
+            ]
+        },
+        {
+            "projectName": "tsys",
+            "projectHeading": "TSYS - Prepaid Card",
+            "projectBreif": [
+                "Javascript", "Angular JS", "React JS", "HTML5", "CSS3", "ES6", "Photoshop"
+            ]
+        },
+        {
+            "projectName": "adeo",
+            "projectHeading": "ADEO - Abu Dhabi Government",
+            "projectBreif": [
+                "Angular 7", "HTML", "CSS3", "D3.JS", "Javascript" 
+            ]
+        },
+        {
+            "projectName": "ams",
+            "projectHeading": "Access Management System",
+            "projectBreif": [
+                "React JS", "Redux", "HTML5", "CSS3", "ES6", "Javascript"
+            ]
+        },
+        {
+            "projectName": "idfc",
+            "projectHeading": "IDFC First Banking",
+            "projectBreif": [
+                "React JS", "React Hooks", "HTML5", "CSS3", "ES6", "Javascript"
+            ]
+        }
+    ]
+}

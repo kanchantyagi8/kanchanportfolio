@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kanchanportfolio/static/css/main.a1b80f76.chunk.css",
+    "main.js": "/kanchanportfolio/static/js/main.df5aa787.chunk.js",
+    "main.js.map": "/kanchanportfolio/static/js/main.df5aa787.chunk.js.map",
+    "runtime-main.js": "/kanchanportfolio/static/js/runtime-main.7f66538b.js",
+    "runtime-main.js.map": "/kanchanportfolio/static/js/runtime-main.7f66538b.js.map",
+    "static/js/2.96207c57.chunk.js": "/kanchanportfolio/static/js/2.96207c57.chunk.js",
+    "static/js/2.96207c57.chunk.js.map": "/kanchanportfolio/static/js/2.96207c57.chunk.js.map",
+    "index.html": "/kanchanportfolio/index.html",
+    "precache-manifest.4a160653131a9568ae7dd27b963d2ab8.js": "/kanchanportfolio/precache-manifest.4a160653131a9568ae7dd27b963d2ab8.js",
+    "service-worker.js": "/kanchanportfolio/service-worker.js",
+    "static/css/main.a1b80f76.chunk.css.map": "/kanchanportfolio/static/css/main.a1b80f76.chunk.css.map",
+    "static/media/access-management-system.png": "/kanchanportfolio/static/media/access-management-system.f81834e0.png",
+    "static/media/adeo-abudhabi.png": "/kanchanportfolio/static/media/adeo-abudhabi.24c59888.png",
+    "static/media/cventimg.png": "/kanchanportfolio/static/media/cventimg.dbcd9e02.png",
+    "static/media/idfcfirst-banking.png": "/kanchanportfolio/static/media/idfcfirst-banking.ef0026a3.png",
+    "static/media/mynewpic.jpg": "/kanchanportfolio/static/media/mynewpic.2f4e6dd9.jpg",
+    "static/media/netspend.png": "/kanchanportfolio/static/media/netspend.b060a3df.png",
+    "static/media/newgen-img.png": "/kanchanportfolio/static/media/newgen-img.ba016dc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f66538b.js",
+    "static/js/2.96207c57.chunk.js",
+    "static/css/main.a1b80f76.chunk.css",
+    "static/js/main.df5aa787.chunk.js"
+  ]
+}
