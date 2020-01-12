@@ -1,0 +1,93 @@
+html {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #898787;
+  /* background-color: #0d1522; */
+  height: -webkit-fill-available;
+  /* background-color: #074a6a; */
+  /* background-image: linear-gradient(to right, #a511cf, #fd67b5); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  color: #002535;
+  line-height: 2rem;
+  text-Transform: uppercase;
+}
+
+h1 {
+  font-size: 2.3rem;
+  background-color: #D6EAEF;
+  width: fit-content;
+  padding: 25px 0 20px;
+  letter-spacing: 10px;
+  word-spacing: 22px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1rem;
+  word-spacing: 5px;
+  letter-spacing: 4px;
+}
+
+p, div, span {
+  font-weight: 300;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+}
+
+TextField {
+  width: 100%;
+}
+
+.container {
+  width: 1000px;
+  height: inherit;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.left-container {
+  width: 400px;
+  height: auto;
+}
+
+.right-container {
+  width: 600px;
+  height: auto;
+  padding-left: 6%;
+}
+
+.MuiTextField-root {
+  width: 100%;
+}
+
+.MuiOutlinedInput-notchedOutline, .MuiButton-outlined {
+  border-color: #079ea2 !important;
+}
+
+.MuiInputLabel-outlined.MuiInputLabel-shrink, .MuiButton-label, .MuiInputLabel-outlined, .MuiOutlinedInput-input {
+  color: #079ea2 !important;
+  text-transform: none;
+  font-weight: 100 !important;
+  font-family: 'Raleway', sans-serif !important;
+}
+
+/* background animation code start */
+
+
+/* background animation code end */

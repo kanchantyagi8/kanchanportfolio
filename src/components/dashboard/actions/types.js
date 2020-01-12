@@ -1,0 +1,2 @@
+export const GET_MY_DETAILS = 'GET_MY_DETAILS';
+export const GET_PROJECT_LIST = 'GET_PROJECT_LIST';

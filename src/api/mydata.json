@@ -1,0 +1,11 @@
+{
+    "details": {
+        "name": "Kanchan Tyagi",
+        "role": "Frontend Developer",
+        "total-exp": "new Date()",
+        "current-company": "XYZ",
+        "technologies": "Javascript, Angular JS, Angular 7, React JS",
+        "dob": "28/06/1990",
+        "qualification": "B.tech(IT)"
+    }
+}
