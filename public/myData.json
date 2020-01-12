@@ -4,12 +4,10 @@
         "role": "Frontend Developer",
         "jobStartYear": "2012",
         "jobStartMonth": "06",
-        "currentCompany": "XYZ",
+        "currentCompany": "Xebia",
         "technologies": "Javascript, Angular JS, Angular 7, React JS, Photoshop, HTML, CSS",
         "dob": "28/06/1990",
         "qualification": "B.Tech (IT)",
-        "about": "I am Frontend developer and have 7 years of experience in frontend technologies. In my 7 years of experience I have worked on SPA(Single Page Application) and 2 CMS(Content Management System). First time I am creating my portfolio, which is very simple and will update so many things in future :)",
-        "aboutDetail": "As you all know my name is Kanchan Tyagi ;), I have worked in so many companies and try to grab the knowledge as much as I can.",
         "techDetails": [
             {
                 "techName": "Javascript",
